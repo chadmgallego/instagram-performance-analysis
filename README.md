@@ -1,4 +1,4 @@
-# Instagram Metrics Analysis
+# Instagram Performance Analysis
 This project analyzes Instagram post performance for Tokyo Student Mobilization to explore how factors such as hashtags, media type, and posting behavior influence engagement and reach. The goal is to identify content patterns that perform well and highlight opportunities for growth through optimal posting strategies. 
 
 ## Key Questions
