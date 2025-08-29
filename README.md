@@ -1,5 +1,5 @@
 # Instagram Metrics Analysis
-This project analyzes Instagram post performance to explore how factors such as hashtags, media type, and posting behavior influence engagement and reach. The goal is to identify content patterns that perform well and highlight opportunities for growth.
+This project analyzes Instagram post performance to explore how factors such as hashtags, media type, and posting behavior influence engagement and reach. The goal is to identify content patterns that perform well and highlight opportunities for growth through optimal posting strategies. 
 
 ## Key Questions
 - How do engagement and reach change over time since the first post?  
@@ -16,14 +16,16 @@ This project analyzes Instagram post performance to explore how factors such as 
 - Feature correlation analysis 
 
 ## Key Insights
--
--
--
--
+- VIDEO posts drive higher engagement compared to IMAGE or CAROUSEL_ALBUM posts.
+- Posting on weekends tends to increase engagement.
+- Hashtags positively impact engagement and reach.
+- Reach is gradually increasing over time, but engagement does not exhibit a corresponding upward trend.
+- Posting time has minimal impact on post performance.
 
 
 ## Data Source Disclosure
 The dataset is derived from Instagram Graph API. Raw files are not shared publicly to respect platform policies and data privacy. All visualizations and findings are based on internally collected post-level data.  
 
 ## Files
-- `instagram_analysis.ipynb`: Full Jupyter notebook with code, visualizations, and insights. 
+- `instagram_analysis.ipynb`: Full Jupyter notebook with code, visualizations, and insights
+- `ig_post_metrics.csv`: Processed dataset of Instagram post performance metrics
