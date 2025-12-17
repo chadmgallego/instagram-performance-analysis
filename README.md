@@ -27,5 +27,5 @@ This project analyzes Instagram post performance for Tokyo Student Mobilization 
 The dataset is derived from Instagram Graph API. Raw files are not shared publicly to respect platform policies and data privacy. All visualizations and findings are based on internally collected post-level data.  
 
 ## Files
-- `instagram_analysis.ipynb`: Full Jupyter notebook with code, visualizations, and insights
+- `instagram_performance_analysis.ipynb`: Full Jupyter notebook with code, visualizations, and insights
 - `ig_post_metrics.csv`: Processed dataset of Instagram post performance metrics
